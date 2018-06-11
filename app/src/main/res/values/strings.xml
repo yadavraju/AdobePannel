@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdobePannel</string>
+
+    <string name="content">Content</string>
+    <string name="handle">Handle</string>
+    <string name="popup">Popup</string>
+</resources>
